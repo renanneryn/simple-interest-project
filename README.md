@@ -1,10 +1,14 @@
-# Projeto de Cálculo de Juros Simples
+# Simple Interest Project
 
-Este projeto contém um script em Bash que calcula o juros simples com base no capital, taxa e tempo fornecidos.
+Este projeto calcula juros simples com um script Bash.
 
 ## Como usar
+1. Clone o repositório.
+2. Execute o script `simple-interest.sh`.
+3. Informe o capital inicial, a taxa de juros e o tempo em anos.
 
-Execute o arquivo `simple-interest.sh` em um terminal Linux:
-
-```bash
-bash simple-interest.sh
+## Como Contribuir
+1. Faça um fork do repositório.
+2. Crie uma nova branch.
+3. Comite suas modificações.
+4. Envie um pull request.
