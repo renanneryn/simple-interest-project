@@ -12,3 +12,6 @@ Este projeto calcula juros simples com um script Bash.
 2. Crie uma nova branch.
 3. Comite suas modificações.
 4. Envie um pull request.
+
+
+ALTEREI
